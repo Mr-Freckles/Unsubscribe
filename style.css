@@ -1,1 +1,13 @@
+div {
+    font-size: 500%;
+    padding-top: 20%;
+    text-align: center;
+    
+}
 
+a {
+    text-decoration: none;
+    background: -webkit-linear-gradient(#e1200b 50%, #d1d631 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
